@@ -9,7 +9,7 @@ it performs basic operations like addition, subtraction, multiplication,divsion
 4. run the command:
   python calculator.py
 
-# example ouyput
+# example output
 ......simple calculator.....
 select operation:
 1. Add
