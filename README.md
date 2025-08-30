@@ -8,3 +8,15 @@ it performs basic operations like addition, subtraction, multiplication,divsion
 3. open terminal in the project folder,
 4. run the command:
   python calculator.py
+
+# example ouyput
+......simple calculator.....
+select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+enter choice(1/2/3/4):1
+enter first number:10
+enter second number: 5
+result: 15 
