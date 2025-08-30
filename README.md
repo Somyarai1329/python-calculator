@@ -11,7 +11,7 @@ it performs basic operations like addition, subtraction, multiplication,divsion
 
 # example output
 ......simple calculator.....
-select operation:
+.select operation:
 1. Add
 2. Subtract
 3. Multiply
